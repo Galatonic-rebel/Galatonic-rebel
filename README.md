@@ -15,6 +15,8 @@ I find myself craving **innovation, novelty, and ramen 🍜**.
 
 My passion spans across domains — from **machine learning and generative AI** to **computer vision, data analytics, and building things for the web**.
 
+I have worked at ERNET India (IITM Research Park) and NIIITR Chennai. Exploring new horizons at the rn. 
+
 ### Currently
 
 - 🤖 Learning about **Agentic AI**
@@ -24,7 +26,7 @@ My passion spans across domains — from **machine learning and generative AI** 
 - 🇩🇪 Lerne **Deutsch**
 - 🛠️ Building **Nova**, my AI-powered portfolio assistant
 
-### Add my tech stacks
+### Tech stacks
 
 **Languages**
 
