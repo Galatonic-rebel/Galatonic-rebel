@@ -15,7 +15,7 @@ I find myself craving **innovation, novelty, and ramen 🍜**.
 
 My passion spans across domains — from **machine learning and generative AI** to **computer vision, data analytics, and building things for the web**.
 
-I have worked at ERNET India (IITM Research Park) and NIIITR Chennai. Exploring new horizons at the rn. 
+I have worked at ERNET India (IITM Research Park) and NIIITR Chennai. Exploring new horizons at the moment. 
 
 ### Currently
 
